@@ -1,4 +1,4 @@
 OzWeather
 =========
 
-Weather outlook for Australian cities
+Weather outlook for main Australian cities
